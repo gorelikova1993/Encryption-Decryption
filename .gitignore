@@ -1,0 +1,54 @@
+# Project exclude paths
+/.gradle/
+/Encryption-Decryption/task/build/
+/Encryption-Decryption/task/out/
+/Encryption-Decryption/task/out/production/classes/
+/Encryption-Decryption/task/out/test/classes/
+/Problems/Cutting out the middle of a string/out/
+/Problems/Cutting out the middle of a string/out/production/classes/
+/Problems/Get the game mode/out/
+/Problems/Get the game mode/out/production/classes/
+/Problems/Maximum element divisible by four/out/
+/Problems/Maximum element divisible by four/out/production/classes/
+/Problems/Parameters and their values/out/
+/Problems/Parameters and their values/out/production/classes/
+/Problems/Print  We are robots_/out/
+/Problems/Print  We are robots_/out/production/classes/
+/Problems/The index of an argument/out/
+/Problems/The index of an argument/out/production/classes/
+/Problems/Vowel or not/out/
+/Problems/Vowel or not/out/production/classes/
+/Topics/Comparable/Implement compareTo method/out/
+/Topics/Comparable/Implement compareTo method/out/production/classes/
+/Topics/Comparable/Implement comparing by additional fields/out/
+/Topics/Comparable/Implement comparing by additional fields/out/production/classes/
+/Topics/Comparable/Theory/out/
+/Topics/Comparable/Theory/out/production/classes/
+/Topics/Encapsulating object creation/Clock factory/out/
+/Topics/Encapsulating object creation/Clock factory/out/production/classes/
+/Topics/Encapsulating object creation/Motor static factory/out/
+/Topics/Encapsulating object creation/Motor static factory/out/production/classes/
+/Topics/Factory method/Laptop store/out/
+/Topics/Factory method/Laptop store/out/production/classes/
+/Topics/Factory method/Robot factory/out/
+/Topics/Factory method/Robot factory/out/production/classes/
+/Topics/Files/Are siblings/out/
+/Topics/Files/Are siblings/out/production/classes/
+/Topics/Files/Theory/out/
+/Topics/Files/Theory/out/production/classes/
+/Topics/Processing strings/Convert a date/out/
+/Topics/Processing strings/Convert a date/out/production/classes/
+/Topics/Switch statement/A simple calculator/out/
+/Topics/Switch statement/A simple calculator/out/production/classes/
+/Topics/Switch statement/Direction/out/
+/Topics/Switch statement/Direction/out/production/classes/
+/Topics/Switch statement/Floor-space of the room/out/
+/Topics/Switch statement/Floor-space of the room/out/production/classes/
+/Topics/Switch statement/From string to a number/out/
+/Topics/Switch statement/From string to a number/out/production/classes/
+/Topics/Switch statement/Harry Potter/out/
+/Topics/Switch statement/Harry Potter/out/production/classes/
+/Topics/Switch statement/Test learners/out/
+/Topics/Switch statement/Test learners/out/production/classes/
+/Topics/Switch statement/Theory/out/
+/Topics/Switch statement/Theory/out/production/classes/
