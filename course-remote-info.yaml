@@ -3,7 +3,7 @@ hyperskill_project:
   ide_files: https://stepik.org/media/attachments/lesson/209884/additional_files.json
   is_template_based: false
   use_ide: true
-update_date: Wed, 18 Aug 2021 18:20:12 UTC
+update_date: Mon, 20 Sep 2021 19:06:41 UTC
 stages:
 - id: 245
   step: 5387
@@ -132,6 +132,8 @@ topics:
   3:
   - title: Errors in programs
     theory_id: 3536
+  - title: Package
+    theory_id: 3621
   - title: What is an exception
     theory_id: 3497
   - title: Hierarchy of exceptions
@@ -142,8 +144,6 @@ topics:
     theory_id: 3566
   - title: IntelliJ Run Configurations
     theory_id: 10630
-  - title: Package
-    theory_id: 3621
   - title: Access modifiers
     theory_id: 3589
   - title: Getters and setters
@@ -165,16 +165,16 @@ topics:
     theory_id: 3652
   - title: Multiple constructors
     theory_id: 3538
+  - title: Annotations basics
+    theory_id: 3622
+  - title: Static members
+    theory_id: 3534
   - title: The keyword super
     theory_id: 3588
   - title: Protected modifier
     theory_id: 6692
   - title: Referencing subclass objects
     theory_id: 3585
-  - title: Annotations basics
-    theory_id: 3622
-  - title: Static members
-    theory_id: 3534
   - title: Hiding and overriding
     theory_id: 3572
   - title: Polymorphism
